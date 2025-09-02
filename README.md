@@ -1,6 +1,6 @@
 # Lunar Calendar Converter Interface
 
-🌐 **[Live Demo](https://hnthap.github.io/lunar)**
+🌐 **[Live Demo](https://hnthap.github.io/lunar-calendar-converter-interface/)**
 
 A simple, user-friendly web interface for converting between Gregorian and Lunar calendar systems.
 
